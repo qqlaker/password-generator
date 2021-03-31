@@ -1,1 +1,4 @@
-# password-generator by LaKeR
+# simple password-generator
+☑ Algorithm
+◻ Extended algorithm
+◻ Interface
