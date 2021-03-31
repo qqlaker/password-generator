@@ -1,4 +1,4 @@
-# simple password-generator
-☑ Algorithm
-◻ Extended algorithm
-◻ Interface
+# simple password-generator 
+☑ Algorithm  
+◻ Extended algorithm  
+◻ Interface  
